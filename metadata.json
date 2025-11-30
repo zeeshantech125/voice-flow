@@ -1,0 +1,5 @@
+{
+  "name": "GourmetVoice",
+  "description": "A high-fidelity Text-to-Speech application capable of generating ultra-realistic voices using Gemini 2.5. Includes a special 'Chef Mode' for generating and narrating sensory food descriptions.",
+  "requestFramePermissions": []
+}
